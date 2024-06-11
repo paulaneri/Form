@@ -21,7 +21,7 @@ Copyright 2016 - All Rights Reserved - Prateek Mathapati
 
 	
 	    
-		$email_to = "<your-mail-id@dragneel.com>"; //Your Mail Id
+		$email_to = "<paula@usinadeideas.com.ar>"; //Your Mail Id
 		$email_subject = "Customer Contact Details";
 	
 		
